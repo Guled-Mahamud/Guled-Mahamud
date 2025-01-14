@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/a03dc4f6-6707-42d2-81a1-3be56a7517ef)
 
 <h1 align="center">Hi 👋, I'm Guled Mahamud</h1>
-<h3 align="center">I'm a junior developer upskilling to become a DevOps/Cloud Engineer. .</h3>
+<h3 align="center">DevOps/Cloud Engineer. .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guled-mahamud&label=Profile%20views&color=0e75b6&style=flat" alt="guled-mahamud" /> </p>
 
